@@ -1,5 +1,5 @@
 description: >
-  Python executor
+  Python executor w/ tag
 docker:
   - image: 'cimg/python:<<parameters.tag>>'
 parameters:
